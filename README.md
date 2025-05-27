@@ -1,2 +1,2 @@
-# OTI
-OTI (One To Infinity) Numbers Generator!
+# OTICPP
+OTI (One To Infinity) Numbers Generator, made with C++!
